@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: 66f7a97d8cb80054ba6ba589681ba0a5
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: arrow
+  - first:
+      1: 100002
+    second: Bone_crossbow_L
+  - first:
+      1: 100004
+    second: Bone_crossbow_R
+  - first:
+      1: 100006
+    second: cape
+  - first:
+      1: 100008
+    second: crossbow
+  - first:
+      1: 100010
+    second: Dummy001
+  - first:
+      1: 100012
+    second: Dummy_arrow_Baked
+  - first:
+      1: 100014
+    second: Dummy_crossbow_Baked
+  - first:
+      1: 100016
+    second: Dummy_crossbow_string
+  - first:
+      1: 100018
+    second: Dummy_crossbow_trigger
+  - first:
+      1: 100020
+    second: gb1_cloth
+  - first:
+      1: 100022
+    second: //RootNode
+  - first:
+      1: 100024
+    second: gbl1
+  - first:
+      1: 100026
+    second: goblinHead
+  - first:
+      1: 100028
+    second: goblinHead_cap
+  - first:
+      1: 100030
+    second: goblinHead_eyebrow_01
+  - first:
+      1: 100032
+    second: goblinHead_eyebrow_02
+  - first:
+      1: 100034
+    second: goblinHead_eyelid_01
+  - first:
+      1: 100036
+    second: goblinHead_eyelid_02
+  - first:
+      1: 100038
+    second: goblinHead_eyelid_03
+  - first:
+      1: 100040
+    second: goblinHead_eyelid_04
+  - first:
+      1: 100042
+    second: goblinHeadBone_ear_01
+  - first:
+      1: 100044
+    second: goblinHeadBone_ear_02
+  - first:
+      1: 100046
+    second: goblinHeadBone_jaw
+  - first:
+      1: 100048
+    second: goblinHeadBone_mask
+  - first:
+      1: 100050
+    second: goblinLArm1
+  - first:
+      1: 100052
+    second: goblinLArm2
+  - first:
+      1: 100054
+    second: goblinLArmCollarbone
+  - first:
+      1: 100056
+    second: goblinLArmDigit01
+  - first:
+      1: 100058
+    second: goblinLArmDigit02
+  - first:
+      1: 100060
+    second: goblinLArmDigit03
+  - first:
+      1: 100062
+    second: goblinLArmDigit11
+  - first:
+      1: 100064
+    second: goblinLArmDigit12
+  - first:
+      1: 100066
+    second: goblinLArmDigit13
+  - first:
+      1: 100068
+    second: goblinLArmDigit31
+  - first:
+      1: 100070
+    second: goblinLArmDigit32
+  - first:
+      1: 100072
+    second: goblinLArmDigit33
+  - first:
+      1: 100074
+    second: goblinLArmDigit41
+  - first:
+      1: 100076
+    second: goblinLArmDigit42
+  - first:
+      1: 100078
+    second: goblinLArmDigit43
+  - first:
+      1: 100080
+    second: goblinLArmPalm
+  - first:
+      1: 100082
+    second: goblinLLeg1
+  - first:
+      1: 100084
+    second: goblinLLeg2
+  - first:
+      1: 100086
+    second: goblinLLegDigit01
+  - first:
+      1: 100088
+    second: goblinLLegPalm
+  - first:
+      1: 100090
+    second: goblinNeck
+  - first:
+      1: 100092
+    second: goblinPelvis
+  - first:
+      1: 100094
+    second: goblinPelvis_buckle
+  - first:
+      1: 100096
+    second: goblinPelvisBon_skirt_003
+  - first:
+      1: 100098
+    second: goblinPelvisBone_skirt_001
+  - first:
+      1: 100100
+    second: goblinPelvisBone_skirt_002
+  - first:
+      1: 100102
+    second: goblinRArm1
+  - first:
+      1: 100104
+    second: goblinRArm2
+  - first:
+      1: 100106
+    second: goblinRArmCollarbone
+  - first:
+      1: 100108
+    second: goblinRArmDigit01
+  - first:
+      1: 100110
+    second: goblinRArmDigit02
+  - first:
+      1: 100112
+    second: goblinRArmDigit03
+  - first:
+      1: 100114
+    second: goblinRArmDigit11
+  - first:
+      1: 100116
+    second: goblinRArmDigit12
+  - first:
+      1: 100118
+    second: goblinRArmDigit13
+  - first:
+      1: 100120
+    second: goblinRArmDigit31
+  - first:
+      1: 100122
+    second: goblinRArmDigit32
+  - first:
+      1: 100124
+    second: goblinRArmDigit33
+  - first:
+      1: 100126
+    second: goblinRArmDigit41
+  - first:
+      1: 100128
+    second: goblinRArmDigit42
+  - first:
+      1: 100130
+    second: goblinRArmDigit43
+  - first:
+      1: 100132
+    second: goblinRArmPalm
+  - first:
+      1: 100134
+    second: goblinRibcage
+  - first:
+      1: 100136
+    second: goblinRLeg1
+  - first:
+      1: 100138
+    second: goblinRLeg2
+  - first:
+      1: 100140
+    second: goblinRLegDigit01
+  - first:
+      1: 100142
+    second: goblinRLegPalm
+  - first:
+      1: 100144
+    second: goblinSpine1
+  - first:
+      1: 100146
+    second: goblinSpine2
+  - first:
+      1: 100148
+    second: mask
+  - first:
+      1: 100150
+    second: quiver
+  - first:
+      1: 100152
+    second: west
+  - first:
+      4: 400000
+    second: arrow
+  - first:
+      4: 400002
+    second: Bone_crossbow_L
+  - first:
+      4: 400004
+    second: Bone_crossbow_R
+  - first:
+      4: 400006
+    second: cape
+  - first:
+      4: 400008
+    second: crossbow
+  - first:
+      4: 400010
+    second: Dummy001
+  - first:
+      4: 400012
+    second: Dummy_arrow_Baked
+  - first:
+      4: 400014
+    second: Dummy_crossbow_Baked
+  - first:
+      4: 400016
+    second: Dummy_crossbow_string
+  - first:
+      4: 400018
+    second: Dummy_crossbow_trigger
+  - first:
+      4: 400020
+    second: gb1_cloth
+  - first:
+      4: 400022
+    second: //RootNode
+  - first:
+      4: 400024
+    second: gbl1
+  - first:
+      4: 400026
+    second: goblinHead
+  - first:
+      4: 400028
+    second: goblinHead_cap
+  - first:
+      4: 400030
+    second: goblinHead_eyebrow_01
+  - first:
+      4: 400032
+    second: goblinHead_eyebrow_02
+  - first:
+      4: 400034
+    second: goblinHead_eyelid_01
+  - first:
+      4: 400036
+    second: goblinHead_eyelid_02
+  - first:
+      4: 400038
+    second: goblinHead_eyelid_03
+  - first:
+      4: 400040
+    second: goblinHead_eyelid_04
+  - first:
+      4: 400042
+    second: goblinHeadBone_ear_01
+  - first:
+      4: 400044
+    second: goblinHeadBone_ear_02
+  - first:
+      4: 400046
+    second: goblinHeadBone_jaw
+  - first:
+      4: 400048
+    second: goblinHeadBone_mask
+  - first:
+      4: 400050
+    second: goblinLArm1
+  - first:
+      4: 400052
+    second: goblinLArm2
+  - first:
+      4: 400054
+    second: goblinLArmCollarbone
+  - first:
+      4: 400056
+    second: goblinLArmDigit01
+  - first:
+      4: 400058
+    second: goblinLArmDigit02
+  - first:
+      4: 400060
+    second: goblinLArmDigit03
+  - first:
+      4: 400062
+    second: goblinLArmDigit11
+  - first:
+      4: 400064
+    second: goblinLArmDigit12
+  - first:
+      4: 400066
+    second: goblinLArmDigit13
+  - first:
+      4: 400068
+    second: goblinLArmDigit31
+  - first:
+      4: 400070
+    second: goblinLArmDigit32
+  - first:
+      4: 400072
+    second: goblinLArmDigit33
+  - first:
+      4: 400074
+    second: goblinLArmDigit41
+  - first:
+      4: 400076
+    second: goblinLArmDigit42
+  - first:
+      4: 400078
+    second: goblinLArmDigit43
+  - first:
+      4: 400080
+    second: goblinLArmPalm
+  - first:
+      4: 400082
+    second: goblinLLeg1
+  - first:
+      4: 400084
+    second: goblinLLeg2
+  - first:
+      4: 400086
+    second: goblinLLegDigit01
+  - first:
+      4: 400088
+    second: goblinLLegPalm
+  - first:
+      4: 400090
+    second: goblinNeck
+  - first:
+      4: 400092
+    second: goblinPelvis
+  - first:
+      4: 400094
+    second: goblinPelvis_buckle
+  - first:
+      4: 400096
+    second: goblinPelvisBon_skirt_003
+  - first:
+      4: 400098
+    second: goblinPelvisBone_skirt_001
+  - first:
+      4: 400100
+    second: goblinPelvisBone_skirt_002
+  - first:
+      4: 400102
+    second: goblinRArm1
+  - first:
+      4: 400104
+    second: goblinRArm2
+  - first:
+      4: 400106
+    second: goblinRArmCollarbone
+  - first:
+      4: 400108
+    second: goblinRArmDigit01
+  - first:
+      4: 400110
+    second: goblinRArmDigit02
+  - first:
+      4: 400112
+    second: goblinRArmDigit03
+  - first:
+      4: 400114
+    second: goblinRArmDigit11
+  - first:
+      4: 400116
+    second: goblinRArmDigit12
+  - first:
+      4: 400118
+    second: goblinRArmDigit13
+  - first:
+      4: 400120
+    second: goblinRArmDigit31
+  - first:
+      4: 400122
+    second: goblinRArmDigit32
+  - first:
+      4: 400124
+    second: goblinRArmDigit33
+  - first:
+      4: 400126
+    second: goblinRArmDigit41
+  - first:
+      4: 400128
+    second: goblinRArmDigit42
+  - first:
+      4: 400130
+    second: goblinRArmDigit43
+  - first:
+      4: 400132
+    second: goblinRArmPalm
+  - first:
+      4: 400134
+    second: goblinRibcage
+  - first:
+      4: 400136
+    second: goblinRLeg1
+  - first:
+      4: 400138
+    second: goblinRLeg2
+  - first:
+      4: 400140
+    second: goblinRLegDigit01
+  - first:
+      4: 400142
+    second: goblinRLegPalm
+  - first:
+      4: 400144
+    second: goblinSpine1
+  - first:
+      4: 400146
+    second: goblinSpine2
+  - first:
+      4: 400148
+    second: mask
+  - first:
+      4: 400150
+    second: quiver
+  - first:
+      4: 400152
+    second: west
+  - first:
+      43: 4300000
+    second: gbl1
+  - first:
+      43: 4300002
+    second: quiver
+  - first:
+      43: 4300004
+    second: cape
+  - first:
+      43: 4300006
+    second: mask
+  - first:
+      43: 4300008
+    second: west
+  - first:
+      43: 4300010
+    second: gb1_cloth
+  - first:
+      43: 4300012
+    second: arrow
+  - first:
+      43: 4300014
+    second: crossbow
+  - first:
+      74: 7400000
+    second: attack
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: arrow
+  - first:
+      137: 13700002
+    second: cape
+  - first:
+      137: 13700004
+    second: crossbow
+  - first:
+      137: 13700006
+    second: gb1_cloth
+  - first:
+      137: 13700008
+    second: gbl1
+  - first:
+      137: 13700010
+    second: mask
+  - first:
+      137: 13700012
+    second: quiver
+  - first:
+      137: 13700014
+    second: west
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 68
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arrow
+        weight: 1
+      - path: cape
+        weight: 1
+      - path: crossbow
+        weight: 1
+      - path: Dummy_arrow_Baked
+        weight: 1
+      - path: Dummy_crossbow_Baked
+        weight: 1
+      - path: Dummy_crossbow_Baked/Bone_crossbow_L
+        weight: 1
+      - path: Dummy_crossbow_Baked/Bone_crossbow_R
+        weight: 1
+      - path: Dummy_crossbow_Baked/Dummy_crossbow_string
+        weight: 1
+      - path: Dummy_crossbow_Baked/Dummy_crossbow_trigger
+        weight: 1
+      - path: gb1_cloth
+        weight: 1
+      - path: gbl1
+        weight: 1
+      - path: goblinPelvis
+        weight: 1
+      - path: goblinPelvis/goblinLLeg1
+        weight: 1
+      - path: goblinPelvis/goblinLLeg1/goblinLLeg2
+        weight: 1
+      - path: goblinPelvis/goblinLLeg1/goblinLLeg2/goblinLLegPalm
+        weight: 1
+      - path: goblinPelvis/goblinLLeg1/goblinLLeg2/goblinLLegPalm/goblinLLegDigit01
+        weight: 1
+      - path: goblinPelvis/goblinPelvis_buckle
+        weight: 1
+      - path: goblinPelvis/goblinPelvisBon_skirt_003
+        weight: 1
+      - path: goblinPelvis/goblinPelvisBone_skirt_001
+        weight: 1
+      - path: goblinPelvis/goblinPelvisBone_skirt_002
+        weight: 1
+      - path: goblinPelvis/goblinRLeg1
+        weight: 1
+      - path: goblinPelvis/goblinRLeg1/goblinRLeg2
+        weight: 1
+      - path: goblinPelvis/goblinRLeg1/goblinRLeg2/goblinRLegPalm
+        weight: 1
+      - path: goblinPelvis/goblinRLeg1/goblinRLeg2/goblinRLegPalm/goblinRLegDigit01
+        weight: 1
+      - path: goblinPelvis/goblinSpine1
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/Dummy001
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit01
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit01/goblinLArmDigit02
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit01/goblinLArmDigit02/goblinLArmDigit03
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit11
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit11/goblinLArmDigit12
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit11/goblinLArmDigit12/goblinLArmDigit13
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit31
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit31/goblinLArmDigit32
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit31/goblinLArmDigit32/goblinLArmDigit33
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit41
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit41/goblinLArmDigit42
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinLArmCollarbone/goblinLArm1/goblinLArm2/goblinLArmPalm/goblinLArmDigit41/goblinLArmDigit42/goblinLArmDigit43
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHead_cap
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHead_eyebrow_01
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHead_eyebrow_02
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHead_eyelid_01
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHead_eyelid_02
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHead_eyelid_03
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHead_eyelid_04
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHeadBone_ear_01
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHeadBone_ear_02
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHeadBone_jaw
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinNeck/goblinHead/goblinHeadBone_mask
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit01
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit01/goblinRArmDigit02
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit01/goblinRArmDigit02/goblinRArmDigit03
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit11
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit11/goblinRArmDigit12
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit11/goblinRArmDigit12/goblinRArmDigit13
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit31
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit31/goblinRArmDigit32
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit31/goblinRArmDigit32/goblinRArmDigit33
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit41
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit41/goblinRArmDigit42
+        weight: 1
+      - path: goblinPelvis/goblinSpine1/goblinSpine2/goblinRibcage/goblinRArmCollarbone/goblinRArm1/goblinRArm2/goblinRArmPalm/goblinRArmDigit41/goblinRArmDigit42/goblinRArmDigit43
+        weight: 1
+      - path: mask
+        weight: 1
+      - path: quiver
+        weight: 1
+      - path: west
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
